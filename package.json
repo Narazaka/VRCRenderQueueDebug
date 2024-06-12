@@ -1,0 +1,19 @@
+{
+  "name": "net.narazaka.vrchat.render-queue-debug",
+  "version": "1.0.0",
+  "displayName": "VRCRenderQueueDebug",
+  "description": "RenderQueue Debug avatar kit",
+  "author": {
+    "name": "Narazaka",
+    "url": "https://github.com/Narazaka"
+  },
+  "license": "Zlib",
+  "type": "tool",
+  "url" : "https://github.com/Narazaka/VRCRenderQueueDebug.git",
+  "unity": "2022.3",
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.5.2",
+    "nadena.dev.modular-avatar": ">=1.5.0 <2.0.0-a",
+    "jp.lilxyzw.liltoon": ">=1.3.7"
+  }
+}
