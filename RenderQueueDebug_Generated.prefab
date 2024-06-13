@@ -10,7 +10,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1176392497235982437, guid: dbd352f1687c26742829bdedb120c5d4, type: 3}
       propertyPath: m_Name
-      value: RenderQueueDebug Variant
+      value: RenderQueueDebug_Generated
       objectReference: {fileID: 0}
     - target: {fileID: 3567888030610324458, guid: dbd352f1687c26742829bdedb120c5d4, type: 3}
       propertyPath: parameters.Array.size
@@ -34,19 +34,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3567888030610324458, guid: dbd352f1687c26742829bdedb120c5d4, type: 3}
       propertyPath: parameters.Array.data[8].localOnly
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3567888030610324458, guid: dbd352f1687c26742829bdedb120c5d4, type: 3}
       propertyPath: parameters.Array.data[9].localOnly
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3567888030610324458, guid: dbd352f1687c26742829bdedb120c5d4, type: 3}
       propertyPath: parameters.Array.data[10].localOnly
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3567888030610324458, guid: dbd352f1687c26742829bdedb120c5d4, type: 3}
       propertyPath: parameters.Array.data[11].localOnly
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3567888030610324458, guid: dbd352f1687c26742829bdedb120c5d4, type: 3}
       propertyPath: parameters.Array.data[8].nameOrPrefix
