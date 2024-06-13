@@ -1,6 +1,6 @@
 {
   "name": "net.narazaka.vrchat.render-queue-debug",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "VRCRenderQueueDebug",
   "description": "RenderQueue Debug avatar kit",
   "author": {
