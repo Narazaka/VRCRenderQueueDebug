@@ -22,6 +22,8 @@ RenderQueueDebug_Generatedをアバターの中においてアップロード
 - ビルド時間1～2分くらいはかかります！
 - RenderQueueDebugはAnimatorController生成前のやつ。こっちだとビルドに数十分かかる！！！
 
+ON/OFFとか手に持つとかワールド固定とかは含まれてないのでそれっぽいツールを使ってよしなにしてください。
+
 ## License
 
 [Zlib License](LICENSE.txt)
